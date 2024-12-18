@@ -1,0 +1,378 @@
+w* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#navigation {
+    max-width: 1183px;
+    width: 100%;
+    background-color: #F7F4FF;
+    margin-left: auto;
+    padding: 12px 24px;
+
+}
+
+#navigaion_logo {
+    vertical-align: middle;
+}
+
+#link_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 277px;
+    margin-right: 277px;
+}
+
+#About {
+    padding-left: 20px;
+    text-align: none;
+    color: #332233;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+#offer {
+    padding-left: 20px;
+    text-align: none;
+    color: #332233;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+#contact {
+    color: #8E26C0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-left: 20px;
+    text-align: none;
+}
+
+#help {
+    padding-left: 20px;
+    text-align: none;
+    color: #332233;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+#contct_button {
+    color: #8E26C0;
+    padding: 8px 6px;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+}
+
+/* mainnnn  ............................................................*/
+
+#main_container {
+    max-width: 1299px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 142px;
+    margin-bottom: 163px;
+}
+
+#info_box {
+    width: 100%;
+}
+
+#main_img {
+    display: inline-block;
+    max-width: 610px;
+    width: 100%;
+    height: 458px;
+    margin-right: 40px;
+    vertical-align: middle;
+    margin-bottom: 83px;
+}
+
+#people {
+    width: 100%;
+}
+
+#main_info {
+    display: inline-block;
+    max-width: 644px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+h1 {
+    width: 100%;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 16px;
+}
+
+#info_p {
+    color: #535862;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 17px;
+    width: 100%;
+    vertical-align: middle;
+    margin-bottom: 16px;
+}
+
+#list {
+    width: 335px;
+    color: #000;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    display: inline-block;
+}
+
+#list li {
+    padding: 12px;
+
+}
+
+/* contact uss ..............................................................*/
+
+#mesanger_box {
+    max-width: 1221px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 163px;
+}
+
+#contact_conteiner {
+    max-width: 905px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 28px;
+
+}
+
+#contact_h {
+    text-align: center;
+    width: 100%;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 67px;
+    color: #000;
+}
+
+#contact_p {
+    text-align: center;
+    line-height: 27px;
+    font-size: 20px;
+    font-weight: 400;
+    width: 100%;
+    margin-top: 18px;
+    color: #535862;
+}
+
+/* ..........................................*/
+#mesanger_box {
+    width: 100%;
+
+    background-color: #f7f4ff;
+    border-radius: 16px;
+    padding: 32px;
+    display: inline-block;
+
+}
+
+#mesanger_img {
+    width: 403px;
+    height: 474px;
+    border-radius: 16px;
+    background-color: #ffffff;
+    padding: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: middle;
+
+}
+
+#address_box {
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+#addres {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-right: 16px;
+}
+
+#add_cont {
+    max-width: 291px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#addres_h {
+    max-width: 100%;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000;
+}
+
+#addres_p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #6d5f8b;
+
+}
+
+#email_box {
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+#email {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-right: 16px;
+
+}
+
+#emm_box {
+    max-width: 291px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#email_h {
+    max-width: 100%;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000;
+}
+
+#email_p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #6d5f8b;
+}
+
+#phone_box {
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+#phone_img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-right: 16px;
+
+}
+
+#calling {
+    max-width: 291px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#phone_h {
+    max-width: 100%;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000;
+}
+
+#phonr_p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #6d5f8b;
+}
+
+/* denddddd  .....................................................*/
+
+#send_mesanger {
+    max-width: 730px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#send_p {
+    width: 100%;
+    font-size: 32px;
+    color: #1b003d;
+    font-weight: 900;
+    margin-bottom: 16px;
+}
+
+#label_text {
+    width: 100%;
+    color: #1b003d;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+#text {
+    width: 100%;
+    color: #6d5f8b;
+    font-weight: 400;
+    font-size: 32px;
+    padding: 8px 16px;
+    border: 1px solid #8e26c0;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#label_email {
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    color: #1b003d;
+}
+
+#email_for {
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    color: #6d5f8b;
+    border: 1px solid #8e26c0;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+#text_box {
+    color: #6D5F8B;
+    font-weight: 400;
+    height: 146px;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 16px;
+    border: 1px solid #8e26c0;
+    border-radius: 16px;
+    margin-bottom: 24px;
+}
+
+#submit_box {
+    width: 140px;
+    margin-left: auto;
+}
+
+#submit {
+    width: 100%;
+    color: #f7f4ff;
+    background-color: #8e26c0;
+    border: 16px;
+    padding: 12px;
+    border: 1px solid #8E26C0;
+    text-align: center;
+    border-radius: 48px
+}
