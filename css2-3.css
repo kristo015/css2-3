@@ -545,14 +545,13 @@ h1 {
 }
 
 #footer_box {
-    max-width: 1216px;
-    width: 100%;
+    max-width: 1200px;
     margin-top: 70px;
     border-top: 1px solid #fff;
 }
 
 #footer_img {
-    max-width: 45px;
+    max-width: 40px;
     width: 100%;
     display: inline-block;
 }
@@ -565,13 +564,15 @@ h1 {
 }
 
 #logoo {
-    width: 90px;
+    width: 80px;
     height: 32px;
     vertical-align: middle;
     display: inline-block;
 }
 
 #footer_text {
+    padding: 20px;
+    margin-right: auto;
     max-width: 300px;
     width: 100%;
     display: inline-block;
@@ -580,7 +581,6 @@ h1 {
 }
 
 #footer_p {
-    width: 100%;
     font-weight: 400;
     font-size: 20px;
     color: #d6bbfb;
